@@ -10,7 +10,9 @@ import SwiftUI
 struct Onur: View {
     var body: some View {
         Text("Hello, Onur!")
+        Text("Hello, Kayhan!")
     }
+    
 }
 
 #Preview {
