@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Git Practice")
+            Text("Hampus Conflict Text")
         }
         .padding()
     }
