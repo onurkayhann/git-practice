@@ -10,6 +10,7 @@ import SwiftUI
 struct HampusTestView: View {
     var body: some View {
         Text("This is Hampus Test View")
+        Text("A new text row")
     }
 }
 
